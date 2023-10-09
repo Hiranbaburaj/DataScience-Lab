@@ -49,9 +49,9 @@ EXERCISE 3: Programs using Matplotlib
   (ii) Write a Python programming to display a horizontal bar chart of the popularity of programming Languages(Give Red colour to the bar chart).
   (iii) Write a Python programming to display a bar chart of the popularity of programming Languages. Use different color for each bar.
 7. Write a Python program to create bar plot of scores by group and gender. Use multiple X values on the same chart for men and women.
-    Sample Data:
-    Means (men) = (22, 30, 35, 35, 26)
-    Means (women) = (25, 32, 30, 35, 29)
+Sample Data:
+Means (men) = (22, 30, 35, 35, 26)
+Means (women) = (25, 32, 30, 35, 29)
 8. Write a Python programming to create a pie chart of the popularity of programming Languages.
     Programming languages: Java   Python  PHP  JavaScript C#  C++
     Popularity             22.2   17.6    8.8  8          77  6.7
