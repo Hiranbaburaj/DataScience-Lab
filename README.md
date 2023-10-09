@@ -30,7 +30,7 @@ Write Python program to create two matrices (read values from user) and find the
 EXERCISE 3: Programs using Matplotlib
 1. Draw a line in a diagram from position (1, 3) to (2, 10) then to (6, 12) and finally to position (18, 20).
   (Mark each point with a beautiful green colour and set line colour to red and line style dotted)
-2. Draw a plot for the following data
+2. Draw a plot for the following data <br />
       Temperature in degree Celsius  Sales
       12                             100
       14                             200
