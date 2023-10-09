@@ -26,3 +26,47 @@ Write Python program to create two matrices (read values from user) and find the
 5. Determinant
 6. Inverse
 7. Eigen values and eigen vectors
+
+EXERCISE 3: Programs using Matplotlib
+1. Draw a line in a diagram from position (1, 3) to (2, 10) then to (6, 12) and finally to position (18, 20).
+  (Mark each point with a beautiful green colour and set line colour to red and line style dotted)
+2. Draw a plot for the following data
+      Temperature in degree Celsius  Sales
+      12                             100
+      14                             200
+      16                             250
+      18                             400
+      20                             300
+      22                             450
+      24                             500
+3. Write a Python program to draw a line using given axis values taken from a text file, with suitable label in the x axis, y axis and a title.
+4. Write a Python program to plot two or more lines on same plot with suitable legends of each line.
+5. Write a Python program to create multiple plots.
+6. Consider the following data.
+    Programming languages: Java   Python  PHP  JavaScript C#  C++
+    Popularity             22.2   17.6    8.8  8          77  6.7
+  (i) Write a Python programming to display a bar chart of the popularity of programming Languages.
+  (ii) Write a Python programming to display a horizontal bar chart of the popularity of programming Languages(Give Red colour to the bar chart).
+  (iii) Write a Python programming to display a bar chart of the popularity of programming Languages. Use different color for each bar.
+7. Write a Python program to create bar plot of scores by group and gender. Use multiple X values on the same chart for men and women.
+    Sample Data:
+    Means (men) = (22, 30, 35, 35, 26)
+    Means (women) = (25, 32, 30, 35, 29)
+8. Write a Python programming to create a pie chart of the popularity of programming Languages.
+    Programming languages: Java   Python  PHP  JavaScript C#  C++
+    Popularity             22.2   17.6    8.8  8          77  6.7
+9. Write a Python programming to create a pie chart of gold medal achievements of five most successful countries in 2016 Summer Olympics. Read the data from a csv file.
+Sample data:
+medal.csv
+    country,gold_medal
+    United States,46
+    Great Britain,27
+    China,26
+    Russia,19
+    Germany,17
+10. Write a Python program to draw a scatter plot comparing two subject marks of Mathematics and Science. Use marks of 10 students.
+Sample data:
+Test Data:
+  math_marks = [88, 92, 80, 89, 100, 80, 60, 100, 80, 34]
+  science_marks = [35, 79, 79, 48, 100, 88, 32, 45, 20, 30]
+  marks_range = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
