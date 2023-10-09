@@ -30,7 +30,7 @@ Write Python program to create two matrices (read values from user) and find the
 EXERCISE 3: Programs using Matplotlib
 1. Draw a line in a diagram from position (1, 3) to (2, 10) then to (6, 12) and finally to position (18, 20).
   (Mark each point with a beautiful green colour and set line colour to red and line style dotted)
-2. Draw a plot for the following data <br />
+2. Draw a plot for the following data 
       Temperature in degree Celsius  Sales
       12                             100
       14                             200
@@ -57,13 +57,13 @@ Means (women) = (25, 32, 30, 35, 29)
     Popularity             22.2   17.6    8.8  8          77  6.7
 9. Write a Python programming to create a pie chart of gold medal achievements of five most successful countries in 2016 Summer Olympics. Read the data from a csv file.
 Sample data:
-medal.csv
-    country,gold_medal
-    United States,46
-    Great Britain,27
-    China,26
-    Russia,19
-    Germany,17
+medal.csv<br>
+    country,gold_medal<br>
+    United States,46<br>
+    Great Britain,27<br>
+    China,26<br>
+    Russia,19<br>
+    Germany,17<br>
 10. Write a Python program to draw a scatter plot comparing two subject marks of Mathematics and Science. Use marks of 10 students.
 Sample data:
 Test Data:
