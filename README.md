@@ -84,3 +84,12 @@ EXERCISE 4: Programs using Pandas
 10. Given a dataframe with NaN Values, fill the NaN values with 0.
 
 EXERCISE 5: KNN Algorithm
+1. Implement k-NN classification using iris dataset and find the accuracy of the algorithm
+2. Implement k-NN classification using custom dataset
+
+EXERCISE 6: Diabetes Prediction
+1. Predict diabetes using k-NN classification 
+
+EXERCISE 7: Decision Tree
+1. Implement decision trees using iris dataset and find the accuracy of the algorithm
+2. Implement decision trees  using custom dataset
