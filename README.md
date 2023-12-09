@@ -92,4 +92,8 @@ EXERCISE 6: Diabetes Prediction
 
 EXERCISE 7: Decision Tree
 1. Implement decision trees using iris dataset and find the accuracy of the algorithm
-2. Implement decision trees  using custom dataset
+2. Implement decision trees using custom dataset
+
+EXERCISE 8: Naïve Bayes Algorithm
+1. Implement naïve bayes algorithm using iris dataset and find the accuracy of the algorithm
+2. Implement naïve bayes algorithm using custom dataset
