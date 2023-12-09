@@ -70,3 +70,17 @@ Test Data:<br>
   math_marks = [88, 92, 80, 89, 100, 80, 60, 100, 80, 34]<br>
   science_marks = [35, 79, 79, 48, 100, 88, 32, 45, 20, 30]<br>
   marks_range = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]<br>
+
+EXERCISE 4: Programs using Pandas
+1. Write a python program to implement List-to-Series Conversion
+2. Write a python program to Generate the series of dates from 1st May, 2021 to 12th May, 2021 (both inclusive).
+3. Given a dictionary, convert it into corresponding dataframe and display it.
+4. Given a 2D List, convert it into corresponding dataframe and display it.
+5. Given a CSV file, read it into a dataframe and display it.
+6. Given a dataframe, sort it by multiple columns
+7. Given a dataframe with custom indexing, convert and it to default indexing and display it.
+8. Given a dataframe, select first 2 rows and output them.
+9. Given is a dataframe showing name, occupation, salary of people. Find the average salary per occupation.
+10. Given a dataframe with NaN Values, fill the NaN values with 0.
+
+EXERCISE 5: KNN Algorithm
